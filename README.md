@@ -35,7 +35,7 @@ other usefull commands
 :PluginClean
 ```
 
-## how add Vundle.vim as subtree
+## how to add Vundle.vim as subtree
 you may ignore it
 
 ```
