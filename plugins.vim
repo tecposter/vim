@@ -107,7 +107,7 @@ Plugin 'ap/vim-css-color', { 'for': 'css' }
 "Plugin 'user/L9', {'name': 'newL9'}
 " All of your Plugins must be added before the following line
 
-Plugin 'wikitopian/hardmode'
+"Plugin 'wikitopian/hardmode'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
